@@ -1,5 +1,5 @@
 # java-game
-A java adverenture game.
+A java adverenture game made with JS.
 
 ## Summary:
 Nothing happened right now.
@@ -20,3 +20,5 @@ Changes:<br>
 #### Current commit:
 *Added "br" tags to README.md* changes:<br>
 ~~ README.md (6 lines, 6 sloc)
+
+<strong>WARNING! Previous commit & Current commit fields not changed due to small changes in Markdown file!</strong>
